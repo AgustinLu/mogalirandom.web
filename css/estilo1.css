@@ -84,11 +84,11 @@ body{
     background-repeat: no-repeat;
     background-position:center ;
 }
-body{border: double 6px rgb();
-}
+/*body{border: double 5px rgb();
+}*/
 
 body{
-    background-color: white;
+    background-color: rgb(99, 44, 99);
 }
 
 

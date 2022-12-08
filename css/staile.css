@@ -1,0 +1,16 @@
+.center{
+    background-color: white;
+}
+h1{
+    border-style: inset;
+    text-align: center;
+    background-color: gray;
+}
+details{
+    border-style: inset;
+    background-color: burlywood;
+}
+body{
+    background-image: url(lineas-geometricas-de-neon-abstracto_7680x5120_xtrafondos.com.jpg);
+    background-position: center;
+}
