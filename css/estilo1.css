@@ -92,3 +92,8 @@ body{
 }
 
 
+a{
+    border-style: inset;
+    background-color: gray;
+    text-emphasis-color: black;
+}
