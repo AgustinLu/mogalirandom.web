@@ -1,4 +1,4 @@
-@gm-Red-50: #FFEBEE;
+/*@gm-Red-50: #FFEBEE;
 @gm-Red-100: #FFCDD2;
 @gm-Red-200: #EF9A9A;
 @gm-Red-300: #E57373;
@@ -279,7 +279,7 @@
         transform: rotate(359deg);
     }
 }
-
+/*
 .opacity (@opacity) {
     opacity: @opacity;
     @opacity-ie: (@opacity * 100);
@@ -595,4 +595,4 @@ body {
 h1, h2, h3 {
   font-weight: 200;
 }
-
+*/
