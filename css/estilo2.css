@@ -158,7 +158,7 @@ h3.title {
 .social ul li a:hover {
 	color: #fff;
 }
-.fa-facebook, .fa-twitter,.fa-instagram {
+.fa-facebook, .fa-twitter,.fa-instagram, .fa-github {
 	padding: 10px 0 0 0;
 }
 
@@ -183,7 +183,19 @@ h3.title {
 .social ul li.instagram a:hover { 
 	background: #66269e; 
 }
+.social ul li.github a:hover {
+	background: #000000;
+}
 .center{
     background-image: url(tren-fuera-de-este-planeta_3840x2160_xtrafondos.com.jpg);
     background-position: center;
 }
+a{
+    border-style: inset;
+    background-color: gray;
+    text-emphasis-color: black;
+}
+div{
+    background-color: aliceblue;
+}
+

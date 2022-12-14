@@ -37,3 +37,4 @@ function form_valid(username_valid, password_valid){
         check.classList.remove('up')
     }
 }
+
