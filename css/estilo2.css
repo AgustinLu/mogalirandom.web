@@ -192,10 +192,10 @@ h3.title {
 }
 a{
     border-style: inset;
-    background-color: gray;
-    text-emphasis-color: black;
+    background-color: rgb(132, 192, 117);
+    text-emphasis-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 div{
     background-color: aliceblue;
 }
-
