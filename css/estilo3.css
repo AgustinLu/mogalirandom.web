@@ -23,6 +23,11 @@ p{
     border: double;
     border-color: orange;
 }
+img{
+    width: 390px;
+    text-align: center;
+    height: 170px;
+}
 /*@gm-Red-50: #FFEBEE;
 @gm-Red-100: #FFCDD2;
 @gm-Red-200: #EF9A9A;
